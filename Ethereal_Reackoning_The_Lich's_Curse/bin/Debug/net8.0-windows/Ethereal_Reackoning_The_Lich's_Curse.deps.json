@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ethereal_Reackoning_The_Lich's_Curse/1.0.0": {
+        "runtime": {
+          "Ethereal_Reackoning_The_Lich's_Curse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ethereal_Reackoning_The_Lich's_Curse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
